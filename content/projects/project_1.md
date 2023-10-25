@@ -1,11 +1,10 @@
 +++
-title = "Apollo"
-description = "Modern and minimalistic blog theme."
+title = "VacationMap"
+description = "A little Project to learn the basics of 3-Layer-Architecture in ASP .NET CORE"
 weight = 1
 
 [extra]
-local_image = "/projects/project-1.jpg"
-link_to = "https://github.com/not-matthias/apollo"
+link_to = "https://github.com/naahk/VacationMap"
 +++
 
 Example project page
